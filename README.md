@@ -110,7 +110,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohhitsingh19&show_icons=true&locale=en" alt="rohhitsingh19" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohhitsingh19&" alt="rohhitsingh19" /></p>
 </div>
 
 
