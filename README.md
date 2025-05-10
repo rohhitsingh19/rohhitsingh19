@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN, PERN Projects<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about Java, Javascript, React.js, Node.js<br>
+🔭 I’m currently working on MERN, PERN Projects<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about Java, Javascript, React.js, Node.js, SQL, MongoDB<br>
 
 
 ## 🌐 Socials:
