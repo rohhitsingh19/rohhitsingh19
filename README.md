@@ -11,6 +11,3 @@
 <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohhitsingh19&theme=github_dark" align="right" alt=""></td>
   </tr>
 </table>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
