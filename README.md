@@ -1,5 +1,10 @@
-# 💫 About Me:
-🔭 I'm currently working on MERN, PERN Projects<br>🌱 I'm currently learning Full Stack Development<br>💬 Ask me about Java, Javascript, Typescript, React.js, Node.js, SQL, MongoDB<br>
+💫 About Me:
+
+🔭 I'm currently building scalable backend and full-stack applications<br>
+🌱 I'm currently learning System Design, Backend Engineering & AI/LLM applications<br>
+💻 I work with Node.js, NestJS, TypeScript, PostgreSQL, MongoDB, Redis & BullMQ<br>
+🤖 Exploring AI Agents, RAG, MCP & LLM-powered applications<br>
+💬 Ask me about JavaScript, TypeScript, Node.js, NestJS, React.js, SQL, MongoDB & Redis
 
 
 # 💻 Tech Stack:
