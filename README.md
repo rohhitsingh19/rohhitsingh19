@@ -1,6 +1,6 @@
 💫 About Me:
 
-🔭 I'm currently building scalable backend, full-stack and AI applications<br>
+🔭 I'm currently building scalable backend, full-stack and AI/LLM applications<br>
 🌱 I'm currently learning System Design, Backend Engineering & AI/LLM applications<br>
 💻 I work with Python, Fast API, Node.js, NestJS, TypeScript, PostgreSQL, MongoDB, Redis & BullMQ<br>
 🤖 Exploring AI Agents, RAG, MCP & LLM-powered applications<br>
