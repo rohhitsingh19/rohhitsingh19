@@ -2,7 +2,7 @@
 
 🔭 I'm currently building scalable backend and full-stack applications<br>
 🌱 I'm currently learning System Design, Backend Engineering & AI/LLM applications<br>
-💻 I work with Node.js, NestJS, TypeScript, PostgreSQL, MongoDB, Redis & BullMQ<br>
+💻 I work with Python, Fast API, Node.js, NestJS, TypeScript, PostgreSQL, MongoDB, Redis & BullMQ<br>
 🤖 Exploring AI Agents, RAG, MCP & LLM-powered applications<br>
 💬 Ask me about JavaScript, TypeScript, Node.js, NestJS, React.js, SQL, MongoDB & Redis
 
